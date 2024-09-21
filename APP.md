@@ -4,4 +4,4 @@
 
 在主页
 
-![QC](QC.png)
+![QC](img/QC.png)
